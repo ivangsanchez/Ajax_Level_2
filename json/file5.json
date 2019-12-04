@@ -1,0 +1,15 @@
+{
+    "Gary" : {
+        "especie" : "caracol",
+        "color" : "morado",
+        "nojos" : 2,
+        "estatura" : 40
+    },
+    "BobEsponja" : {
+        "especie" : "esponja",
+        "color" : "amarill",
+        "nojos" : 2,
+        "estatura" : 20
+    }
+
+}

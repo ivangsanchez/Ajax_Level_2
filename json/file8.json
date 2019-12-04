@@ -1,0 +1,22 @@
+[
+    {
+        "pluto" : {
+            "color" : "naranja"
+        }
+    },
+    {
+        "scooby-do":{
+            "color" : "cafe"
+        }
+    },
+    {
+        "snoopy" : {
+            "color" : "blanco"
+        }
+    },
+    {
+        "scrappi" : {
+            "color" : "cafe"
+        }
+    }
+]
